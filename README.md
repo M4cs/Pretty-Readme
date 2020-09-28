@@ -14,3 +14,11 @@ A better looking README on your repositories bring more attention to it and make
 ### Contributing
 
 If you'd like to contribute, feel free making a Pull Request with your changes. If you'd like to read more about how you can contribute, refer to CONTRIBUTING.md.
+
+## Table of Contents
+
+- [**What makes a good README?**]()
+
+## What Makes a Good README?
+
+A good README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. A good logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner. 

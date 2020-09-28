@@ -14,21 +14,23 @@ A community collection of README tools and badges to make your profile/repos mor
 #### II. [What is this?](https://github.com/M4cs/Pretty-Readme#what-is-this)
 #### III. [**What Makes a Good README?**](https://github.com/M4cs/Pretty-Readme#what-makes-a-good-readme)
   1. [**Logos**](https://github.com/M4cs/Pretty-Readme#logos)
+  2. [**Formatting**](https://github.com/M4cs/Pretty-Readme#formatting)
+  3. [**Images**](https://github.com/M4cs/Pretty-Readme#images)
 #### IV. [**What is a Profile README?**](https://github.com/M4cs/Pretty-Readme#what-is-a-profile-readme)
 #### V. [**Resources**](https://github.com/M4cs/Pretty-Readme#resources)
   1. [**Badges**](https://github.com/M4cs/Pretty-Readme#badges)
   2. [**Widgets**](https://github.com/M4cs/Pretty-Readme#widgets)
   3. [**Open Source Repos**](https://github.com/M4cs/Pretty-Readme#open-source-repos)
 
-## What is this?
+# What is this?
 
 A better looking README on your repositories bring more attention to it and make it look more professional. The goal of this repository is to share tools and websites that allow you to make your READMEs look a lot better.
 
-## What Makes a Good README?
+# What Makes a Good README?
 
 A good README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. A good logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner.
 
-## What is a profile README?
+# What is a profile README?
 
 GitHub now allows you to make a README for your profile! All you have to do is make a repo with your Username. So if your GitHub username is JohnSmith123 you'd make a repo called JohnSmith123. Once you go to that repo you can see in the top right corner a little display like so:
 
@@ -60,7 +62,19 @@ A clean logo for your README is a great start to make your repository look profe
 <img src="link" alt="logo" align="right">
 ```
 
-## Resources
+### Formatting
+
+Clean formatting is key to any good README. If you can utilize a clean format of sections in your README you're guaranteed to make it look good. A good format to follow is a header/logo to do with your project, followed by any badges below that. After you should have an informative section with a paragraph speaking about the project and what it does or tries to acheive. Then an installation/usage section if it's a tool or something to download. Followed by an FAQ and Credits/Contributing section. You can also make a Wiki with GitHub and put most of the information there. 
+
+### Images
+
+Detailed images in a repo help show people passing by what it does and what it looks like. A clean screenshot unobstructed by any other windows apart from those to do with the application is a great way to catch eyes. Make sure its legible and easy to make out what's going on.
+
+You can even embed a `gif` the same way you'd do an Image. This allows you to show some features of your project without needing to link to Youtube or another video sharing site.
+
+You can use Imgur, Dropbox, or even GitHub itself to host your images. In a `.github` folder or `images` folder on your repo, you can add images to link to in your README and GitHub will host+cache them for you!
+
+# Resources
 
 Below you can find links and examples of different README tools and badges.
 
@@ -91,6 +105,6 @@ Display your Spotify now Playing in your GitHub Profile README!
 
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A collection of awesome GitHub READMEs
 
-### Contributing
+# Contributing
 
 If you'd like to contribute, feel free making a Pull Request with your changes. If you'd like to read more about how you can contribute, refer to [CONTRIBUTING.md](https://github.com/M4cs/Pretty-Readme/blob/master/CONTRIBUTING.md).

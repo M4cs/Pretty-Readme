@@ -8,6 +8,7 @@
 
 A community collection of README tools and badges to make your profile/repos more attractive.
 
+## Table of Contents
 
 #### I. [Table of Contents](https://github.com/M4cs/Pretty-Readme/)
 #### II. [What is this?](https://github.com/M4cs/Pretty-Readme#what-is-this)

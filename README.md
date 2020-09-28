@@ -63,7 +63,7 @@ Below you can find links and examples of different README tools and badges.
 
 Display your Spotify now Playing in your GitHub Profile README!
 
-<img src="https://ghnp.maxbridgland.com/">
+<img src="https://i.imgur.com/3ixxvpi.png">
 
 <hr>
 

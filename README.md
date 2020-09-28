@@ -21,4 +21,30 @@ If you'd like to contribute, feel free making a Pull Request with your changes. 
 
 ## What Makes a Good README?
 
-A good README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. A good logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner. 
+A good README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. A good logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner.
+
+### Logos
+
+A clean logo for your README is a great start to make your repository look professional. You can make logos with Photoshop, Gimp, or any other Image Processing Software. For GitHub READMEs you are able to utilize HTML formatting using the `align` tag. Below you can find examples of different ways to line up your logo:
+
+**Left Alignment** - This is the default alignment
+
+```html
+<img src="link" alt="logo">
+```
+
+**Center Alignment** - Center your image
+
+```html
+<a align="center">
+  <img src="link" alt="logo">
+</a>
+```
+
+**Right Alignment** - This may cause formatting issues if you do inside of a text block.
+
+```html
+<a align="right">
+  <img src="link" alt="logo">
+</a>
+```

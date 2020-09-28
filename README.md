@@ -26,6 +26,16 @@ A better looking README on your repositories bring more attention to it and make
 
 A good README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. A good logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner.
 
+## What is a profile README?
+
+GitHub now allows you to make a README for your profile! All you have to do is make a repo with your Username. So if your GitHub username is JohnSmith123 you'd make a repo called JohnSmith123. Once you go to that repo you can see in the top right corner a little display like so:
+
+<img align="center" src="https://docs.github.com/assets/images/help/repository/share-to-profile.png">
+
+Click share to profile to have a README displayed when people go to your homepage! You can customize this README with resources from this repo or whatever you'd like!
+
+Find some inspiration here, a curated list of awesome profile READMEs: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
 ### Logos
 
 A clean logo for your README is a great start to make your repository look professional. You can make logos with Photoshop, Gimp, or any other Image Processing Software. For GitHub READMEs you are able to utilize HTML formatting using the `align` tag. Below you can find examples of different ways to line up your logo:
@@ -74,6 +84,10 @@ Display your Spotify now Playing in your GitHub Profile README!
 <img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true">
 
 <hr>
+
+### Open Source Repos
+
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A collection of awesome GitHub READMEs
 
 ### Contributing
 

@@ -14,7 +14,7 @@ A better looking README on your repositories bring more attention to it and make
 
 ### Contributing
 
-If you'd like to contribute, feel free making a Pull Request with your changes. If you'd like to read more about how you can contribute, refer to CONTRIBUTING.md.
+If you'd like to contribute, feel free making a Pull Request with your changes. If you'd like to read more about how you can contribute, refer to [CONTRIBUTING.md](https://github.com/M4cs/Pretty-Readme/blob/master/CONTRIBUTING.md).
 
 ## Table of Contents
 

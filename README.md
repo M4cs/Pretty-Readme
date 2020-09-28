@@ -36,18 +36,37 @@ A clean logo for your README is a great start to make your repository look profe
 **Center Alignment** - Center your image
 
 ```html
-<a align="center">
-  <img src="link" alt="logo">
-</a>
+<img src="link" alt="logo" align="center">
 ```
 
 **Right Alignment** - This may cause formatting issues if you do inside of a text block.
 
 ```html
-<a align="right">
-  <img src="link" alt="logo">
-</a>
+<img src="link" alt="logo" align="right">
 ```
+
+## Resources
+
+Below you can find links and examples of different README tools and badges.
+
+### Badges
+
+- [**Shields.io**](https://shields.io/) - An extremely popular badge service for markdown and HTML. You can even make custom ones with their Shield builder.
+- [**Badge Examples w/ Shields.io**](https://github.com/Naereen/badges) - Naereen/badges repository to help you make your own custom badges.
+
+### Widgets
+
+[**Github-NP**](https://github.com/M4cs/github-np)
+
+Display your Spotify now Playing in your GitHub Profile README!
+
+<img src="https://ghnp.maxbridgland.com/">
+
+[**Github Readme Stats**](https://github.com/anuraghazra/github-readme-stats)
+
+⚡ Dynamically generated stats for your github readmes 
+
+<img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true">
 
 ### Contributing
 

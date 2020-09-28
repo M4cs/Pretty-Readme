@@ -18,7 +18,7 @@ If you'd like to contribute, feel free making a Pull Request with your changes. 
 
 ## Table of Contents
 
-- [**What makes a good README?**]()
+- [**What makes a good README?**](https://github.com/M4cs/Pretty-Readme#what-makes-a-good-readme)
 
 ## What Makes a Good README?
 

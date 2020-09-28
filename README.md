@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/M4cs/Pretty-Readme">
 </p>
 
-A community collection of Readme tools and badges to make your profile/repos more attractive.
+A community collection of README tools and badges to make your profile/repos more attractive.
 
 ## What is this?
 

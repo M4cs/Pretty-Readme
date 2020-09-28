@@ -14,6 +14,9 @@ A community collection of README tools and badges to make your profile/repos mor
 #### II. [What is this?](https://github.com/M4cs/Pretty-Readme#what-is-this)
 #### III. [**What Makes a Good README?**](https://github.com/M4cs/Pretty-Readme#what-makes-a-good-readme)
   1. [**Logos**](https://github.com/M4cs/Pretty-Readme#logos)
+#### IV. [**Resources**](https://github.com/M4cs/Pretty-Readme#resources)
+  1. [**Badges**](https://github.com/M4cs/Pretty-Readme#badges)
+  2. [**Widgets**](https://github.com/M4cs/Pretty-Readme#widgets)
 
 ## What is this?
 
@@ -62,11 +65,15 @@ Display your Spotify now Playing in your GitHub Profile README!
 
 <img src="https://ghnp.maxbridgland.com/">
 
+<hr>
+
 [**Github Readme Stats**](https://github.com/anuraghazra/github-readme-stats)
 
 ⚡ Dynamically generated stats for your github readmes 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=M4cs&theme=prussian&show_icons=true&count_private=true">
+
+<hr>
 
 ### Contributing
 

@@ -14,9 +14,11 @@ A community collection of README tools and badges to make your profile/repos mor
 #### II. [What is this?](https://github.com/M4cs/Pretty-Readme#what-is-this)
 #### III. [**What Makes a Good README?**](https://github.com/M4cs/Pretty-Readme#what-makes-a-good-readme)
   1. [**Logos**](https://github.com/M4cs/Pretty-Readme#logos)
-#### IV. [**Resources**](https://github.com/M4cs/Pretty-Readme#resources)
+#### IV. [**What is a Profile README?**](https://github.com/M4cs/Pretty-Readme#what-is-a-profile-readme)
+#### V. [**Resources**](https://github.com/M4cs/Pretty-Readme#resources)
   1. [**Badges**](https://github.com/M4cs/Pretty-Readme#badges)
   2. [**Widgets**](https://github.com/M4cs/Pretty-Readme#widgets)
+  3. [**Open Source Repos**](https://github.com/M4cs/Pretty-Readme#open-source-repos)
 
 ## What is this?
 

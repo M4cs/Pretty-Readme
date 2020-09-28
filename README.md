@@ -8,19 +8,15 @@
 
 A community collection of README tools and badges to make your profile/repos more attractive.
 
+
+#### I. [Table of Contents](https://github.com/M4cs/Pretty-Readme/)
+#### II. [What is this?](https://github.com/M4cs/Pretty-Readme#what-is-this)
+#### III. [**What Makes a Good README?**](https://github.com/M4cs/Pretty-Readme#what-makes-a-good-readme)
+  1. [**Logos**](https://github.com/M4cs/Pretty-Readme#logos)
+
 ## What is this?
 
 A better looking README on your repositories bring more attention to it and make it look more professional. The goal of this repository is to share tools and websites that allow you to make your READMEs look a lot better.
-
-### Contributing
-
-If you'd like to contribute, feel free making a Pull Request with your changes. If you'd like to read more about how you can contribute, refer to [CONTRIBUTING.md](https://github.com/M4cs/Pretty-Readme/blob/master/CONTRIBUTING.md).
-
-## Table of Contents
-
-**I.** [**What makes a good README?**](https://github.com/M4cs/Pretty-Readme#what-makes-a-good-readme)
-
-  **a.** [Logos](https://github.com/M4cs/Pretty-Readme#logos)
 
 ## What Makes a Good README?
 
@@ -51,3 +47,7 @@ A clean logo for your README is a great start to make your repository look profe
   <img src="link" alt="logo">
 </a>
 ```
+
+### Contributing
+
+If you'd like to contribute, feel free making a Pull Request with your changes. If you'd like to read more about how you can contribute, refer to [CONTRIBUTING.md](https://github.com/M4cs/Pretty-Readme/blob/master/CONTRIBUTING.md).

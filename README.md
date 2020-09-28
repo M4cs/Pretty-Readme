@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://mbcdn.sfo2.cdn.digitaloceanspaces.com/logo.png">
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=M4cs.Pretty-Readme">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
 </p>
 
-
 A community collection of Readme tools and badges to make your profile/repos more attractive.
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=M4cs.Pretty-Readme)
 
 ## What is this?
 

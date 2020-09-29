@@ -43,7 +43,12 @@ A good README catches the eye of the visitor. Attractive images and information 
 
 ### Logos
 
-A clean logo for your README is a great start to make your repository look professional. You can make logos with Photoshop, Gimp, or any other Image Processing Software. For GitHub READMEs you are able to utilize HTML formatting using the `align` tag. Below you can find examples of different ways to line up your logo:
+A clean logo for your README is a great start to make your repository look professional. You can make logos with Photoshop, Gimp, or any other Image Processing Software. For GitHub READMEs you are able to utilize HTML formatting using the `align` tag. Below you can find examples of different ways to line up your logo in Formatting.
+
+### Formatting
+
+Clean formatting is key to any good README. If you can utilize a clean format of sections in your README you're guaranteed to make it look good. A good format to follow is a header/logo to do with your project, followed by any badges below that. After you should have an informative section with a paragraph speaking about the project and what it does or tries to acheive. Then an installation/usage section if it's a tool or something to download. Followed by an FAQ and Credits/Contributing section. You can also make a Wiki with GitHub and put most of the information there.
+
 
 **Left Alignment** - This is the default alignment
 
@@ -63,9 +68,7 @@ A clean logo for your README is a great start to make your repository look profe
 <img src="link" alt="logo" align="right">
 ```
 
-### Formatting
-
-Clean formatting is key to any good README. If you can utilize a clean format of sections in your README you're guaranteed to make it look good. A good format to follow is a header/logo to do with your project, followed by any badges below that. After you should have an informative section with a paragraph speaking about the project and what it does or tries to acheive. Then an installation/usage section if it's a tool or something to download. Followed by an FAQ and Credits/Contributing section. You can also make a Wiki with GitHub and put most of the information there. 
+<p align="left>You can use Imgur, Dropbox, or even GitHub itself to host your images. In a `.github` folder or `images` folder on your repo, you can add images to link to in your README and GitHub will host+cache them for you!</p><p align="right">You can use Imgur, Dropbox, or even GitHub itself to host your images. In a `.github` folder or `images` folder on your repo, you can add images to link to in your README and GitHub will host+cache them for you!</p>
 
 ### Images
 

@@ -106,6 +106,7 @@ Display your Spotify now Playing in your GitHub Profile README!
 ### Open Source Repos
 
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A collection of awesome GitHub READMEs
+- [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI to generate README.md from environment details
 
 # Contributing
 

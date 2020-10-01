@@ -39,7 +39,7 @@ Find some inspiration here, a curated list of awesome profile READMEs: https://g
 
 # What Makes a Good README?
 
-A good README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. An eye catching logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner. Examples are extremely important to show off your README's features and give users a preview before they get started.
+A well made README catches the eye of the visitor. Attractive images and information about the repo looks a lot better than plain text. An eye catching logo at the top of your README is a great start. Utilizing badges and informative images about the project is a great way to make the README even cleaner. Examples are extremely important to show off your README's features and give users a preview before they get started.
 
 ### Logos
 
@@ -49,6 +49,7 @@ A clean logo for your README is a great start to make your repository look profe
 
 Clean formatting is key to any good README. If you can utilize a clean format of sections in your README you're guaranteed to make it look good. A good format to follow is a header/logo to do with your project, followed by any badges below that. After you should have an informative section with a paragraph speaking about the project and what it does or tries to acheive. Then an installation/usage section if it's a tool or something to download. Followed by an FAQ and Credits/Contributing section. You can also make a Wiki with GitHub and put most of the information there.
 
+**Aligning Images:**
 
 **Left Alignment** - This is the default alignment
 

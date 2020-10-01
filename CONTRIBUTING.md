@@ -9,7 +9,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 1. Update README.md with your changes.
 2. Confirm you have no duplicated any information.
-3. Create detailed pull request with information about what you've added.
+3. Create a detailed pull request with information about what you've added.
 4. If a maintainer requests any changes, make them in the same branch and commit to your PR.
 
 ## Code of Conduct
@@ -17,7 +17,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 ### Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
+contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
 nationality, personal appearance, race, religion, or sexual identity and
@@ -68,7 +68,7 @@ further defined and clarified by project maintainers.
 
 ### Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise, unacceptable behavior may be
 reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is

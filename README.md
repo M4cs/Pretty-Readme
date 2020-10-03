@@ -104,11 +104,18 @@ Display your Spotify now Playing in your GitHub Profile README!
 
 <hr>
 
+[**waka-readme**](https://github.com/athul/waka-readme)
+
+Display Wakatime metrics inside of a README
+
+<img src="https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png">
+
 ### Open Source Repos
 
 - [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - A collection of awesome GitHub READMEs
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - CLI to generate README.md from environment details
 - [Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator) - Web based github profile README generator
+
 
 # Contributing
 

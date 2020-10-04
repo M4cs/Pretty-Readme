@@ -4,6 +4,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M4cs.Pretty-Readme">
   <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
   <img src="https://img.shields.io/github/stars/M4cs/Pretty-Readme">
+  <img src="https://img.shields.io/github/repo-size/M4cs/Pretty-Readme">
+  <img src="https://img.shields.io/static/v1?label=resource&message=visit&color=blueviolet&link=https://github.com/M4cs/Pretty-Readme">
+  <img src="https://img.shields.io/static/v1?label=service&message=get&color=orange&link=https://github.com/M4cs/Pretty-Readme">
 </p>
 
 A community collection of README tools and badges to make your profile/repos more attractive.

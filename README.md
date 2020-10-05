@@ -85,6 +85,7 @@ Below you can find links and examples of different README tools and badges.
 
 - [**Shields.io**](https://shields.io/) - An extremely popular badge service for markdown and HTML. You can even make custom ones with their Shield builder.
 - [**Badge Examples w/ Shields.io**](https://github.com/Naereen/badges) - Naereen/badges repository to help you make your own custom badges.
+- [**Badge collection by tterb**](https://gist.github.com/tterb/982ae14a9307b80117dbf49f624ce0e8) - Tterb badges repo with a collection of common badges.
 
 ### Widgets
 
@@ -109,6 +110,23 @@ Display your Spotify now Playing in your GitHub Profile README!
 Display Wakatime metrics inside of a README
 
 <img src="https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png">
+
+<hr>
+
+[**hall-of-fame**](https://github.com/sourcerer-io/hall-of-fame)
+
+It automatically highlights your new, trending, and top contributors, and updates every hour.
+
+<img src="https://user-images.githubusercontent.com/20287615/43668986-d98186cc-9734-11e8-9c3e-3956a512be04.png">
+
+<hr>
+
+[**weather-readme-widget**](https://github.com/saumiko/weather-readme-widget)
+
+It will display the recent weather report with a cool widget.
+
+<img src="https://camo.githubusercontent.com/c9e1120df5177ff874e189601934fae2cf51d8db/68747470733a2f2f776561746865722d726561646d652e76657263656c2e6170702f6170692f77656174686572">
+
 
 ### Open Source Repos
 

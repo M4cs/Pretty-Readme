@@ -127,6 +127,15 @@ It will display the recent weather report with a cool widget.
 
 <img src="https://camo.githubusercontent.com/c9e1120df5177ff874e189601934fae2cf51d8db/68747470733a2f2f776561746865722d726561646d652e76657263656c2e6170702f6170692f77656174686572">
 
+<hr>
+
+[**YouTube Stats Card**](https://github.com/Dhyeythumar/youtube-stats-card)
+
+🚀 Dynamic YouTube Stats Card for your github readmes & websites.
+
+| Channel Stats Card | Video Stats Card |
+|:------------------:|:----------------:|
+|<img src="https://youtube-stats-card.vercel.app/api?channelid=UCpKizIKSk8ga_LCI3e3GUig&theme=dark_pink&layout=center">|<img src="https://youtube-stats-card.vercel.app/api/video?videoid=4vwZNTagHsQ&theme=dark_pink&layout=compact">|
 
 ### Open Source Repos
 
